@@ -9,7 +9,7 @@ public class Main {
 
         FeatureSun YayaX=new FeatureSun();
         YayaX.name="babe";
-        YayaX.temp=89999888 celsius;
+        YayaX.temp="89999888 celsius";
         YayaX.size="99999999km";
     }
 }
