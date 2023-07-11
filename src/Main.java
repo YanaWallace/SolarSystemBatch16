@@ -11,5 +11,11 @@ public class Main {
         YayaX.name="babe";
         YayaX.temp="89999888 celsius";
         YayaX.size="99999999km";
+
+        Planet1 brand=new Planet1();
+        brand.name="Babe";
+        brand.color="green";
+        brand.temp="-45 celsious";
+        brand.size="9cm";
     }
 }
